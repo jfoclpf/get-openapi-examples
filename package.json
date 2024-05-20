@@ -1,5 +1,5 @@
 {
-  "name": "paths-openapi-yaml",
+  "name": "get-openapi-examples",
   "version": "1.0.0",
   "description": "Extract all possible paths present in openapi.yaml based on paths and the provided examples",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfoclpf/paths-openapi-yaml.git"
+    "url": "git+https://github.com/jfoclpf/get-openapi-examples.git"
   },
   "keywords": [
     "openapi"
@@ -16,9 +16,9 @@
   "author": "João Pimentel Ferreira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jfoclpf/paths-openapi-yaml/issues"
+    "url": "https://github.com/jfoclpf/get-openapi-examples/issues"
   },
-  "homepage": "https://github.com/jfoclpf/paths-openapi-yaml#readme",
+  "homepage": "https://github.com/jfoclpf/get-openapi-examples#readme",
   "dependencies": {
     "yaml": "^2.4.2"
   }
