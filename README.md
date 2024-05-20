@@ -3,7 +3,7 @@
 
 This might be useful, for example, for testing routes. It supports different types of [examples](https://swagger.io/docs/specification/adding-examples/), and variables may be in the path or in the query.
 
-If a certain `openapi.yaml` file is like this example:
+If you have a `openapi.yaml` file like this one, for example:
 
 ```yaml
 paths:
@@ -56,7 +56,7 @@ paths:
             example: Porto
 ```
 
-Then you use this module like this:
+Then:
 
 ```js
 const pathsOpenapiYaml = require('paths-openapi-yaml')
