@@ -1,4 +1,4 @@
-## paths-openapi-yaml
+## get-openapi-examples
 ### Extract all possible paths present in `openapi.yaml` based on paths and the provided examples
 
 This might be useful, for example, for testing routes. It supports different types of [examples](https://swagger.io/docs/specification/adding-examples/), and variables may be in the path or in the query.
