@@ -1,7 +1,7 @@
 {
   "name": "paths-openapi-yaml",
   "version": "1.0.0",
-  "description": "Get all paths present in openapi.yaml file based on paths and the provided examples",
+  "description": "Extract all possible paths present in openapi.yaml based on paths and the provided examples",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
