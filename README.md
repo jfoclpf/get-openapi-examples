@@ -59,8 +59,8 @@ paths:
 Then:
 
 ```js
-const pathsOpenapiYaml = require('paths-openapi-yaml')
-console.log(pathsOpenapiYaml('/path/to/openapi.yaml'))
+const getOpenapiExamples = require('get-openapi-examples')
+console.log(getOpenapiExamples('/path/to/openapi.yaml'))
 /*
 [
   '/coordinates?lat=40.153687&lon=-8.514602',
