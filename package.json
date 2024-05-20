@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jfoclpf/paths-openapi-yaml/issues"
   },
-  "homepage": "https://github.com/jfoclpf/paths-openapi-yaml#readme"
+  "homepage": "https://github.com/jfoclpf/paths-openapi-yaml#readme",
+  "dependencies": {
+    "yaml": "^2.4.2"
+  }
 }
